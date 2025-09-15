@@ -4,3 +4,6 @@ COM ports changing? Unsure what's online? TekConnect handles it for you:
 - Works with ANY DCS-BIOS unit (TekCreations or not)
 - Option for ports to auto-connect
 - FREE - warranty not given or implied 😉
+
+
+Files are in the Releases Section
